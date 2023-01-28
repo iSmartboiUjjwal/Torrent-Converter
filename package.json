@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JinsoRaj/TorrentConverter.git"
+    "url": "git+https://github.com/iSmartboiUjjwal/Torrent-Converter.git"
   },
   "keywords": [
     "telegram",
@@ -16,12 +16,12 @@
     "torrent",
     "grammy"
   ],
-  "author": "JinsoRaj",
+  "author": "iSmartboiUjjwal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JinsoRaj/TorrentConverter/issues"
+    "url": "https://github.com/iSmartboiUjjwal/Torrent-Converter/issues"
   },
-  "homepage": "https://github.com/JinsoRaj/TorrentConverter#readme",
+  "homepage": "https://github.com/iSmartboiUjjwal/Torrent-Converter#readme",
   "dependencies": {
     "@grammyjs/files": "^1.0.2",
     "dotenv": "^10.0.0",
