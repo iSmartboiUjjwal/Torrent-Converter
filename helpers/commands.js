@@ -19,7 +19,7 @@ startMsg = async (ctx) =>
 
 helpMsg = async (ctx) =>
 {
-    ctx.reply(`I can convert magnet links to torrent files and vice versa.\nI can manage your torrent / leech groups also. <a href="https://t.me/?startgroup=start">Add me to your groups.</a>`,
+    ctx.reply(`I can convert magnet links to torrent files and vice versa.\nI can manage your torrent / leech groups also. <a href="http://t.me/Mxa_Torrent_Magnet_ConverterBot?startgroup=start">Add me to your groups.</a>`,
     {
         parse_mode: "HTML",
         disable_web_page_preview: true,
